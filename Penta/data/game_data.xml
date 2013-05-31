@@ -1,0 +1,1 @@
+<game>	<hud>		<startLives>10</startLives>		<startScore>0</startScore>	</hud>	<levels>		<level>			<geoms number="1" maxSpeed="3" maxRotation="5" />			<black spawnDelay="5000" fireDelay="2500" accuracy="30" />		</level>	</levels></game>
